@@ -17,6 +17,7 @@ namespace Eliot.App.LibPages.Federation.Views
 			BackgroundImage = "background.png";
 
 			//this is a label
+			/////////////////
 			var info = new LabelLibPages
 			{
 				Text = "Lorem ipsum dolor sit amet",
