@@ -16,6 +16,7 @@ namespace Eliot.App.LibPages.Federation.Views
 			Title = "ACCEPT TERMS AND CONDITIONS";
 			BackgroundImage = "background.png";
 
+			//this is a label
 			var info = new LabelLibPages
 			{
 				Text = "Lorem ipsum dolor sit amet",
